@@ -18,6 +18,35 @@ The app has two types of users:
 ## 🚀 Installation
 
 Clone the repo:
-```sh
 git clone https://github.com/Akshaya-0406/stock-app.git
 cd stock-app
+Install dependencies:
+
+npm install
+
+
+Run the app:
+
+npx expo start
+
+👨‍💻 Credentials
+
+Dad (Sravan) → sravan / 1234
+
+Staff → user / 1234
+
+🛠 Tech Stack
+
+React Native (Expo)
+
+AsyncStorage (for local storage)
+
+Styled with custom UI components
+
+📱 Screenshots (Coming soon)
+
+Login Page
+
+Dad Dashboard
+
+Staff View

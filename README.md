@@ -14,6 +14,15 @@ The app has two types of users:
 - 🎨 Clean UI with blue & white theme
 
 ---
+👉 Login Credentials
+
+Dad (Sravan):
+Username → sravan
+Password → dad123
+
+Staff:
+Username → user
+Password → user123
 
 ## 🚀 Installation
 
